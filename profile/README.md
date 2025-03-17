@@ -4,4 +4,4 @@
 - [Monocular Pose Estimation](./Ideas/Monocular_Pose_Estimation.md)
 
 # Architecture
-![architecture_diagram](../resources/architecture_diagram.png){width=50%}
+<img src="../resources/architecture_diagram.png" alt="architecture_diagram" width="100"/>
