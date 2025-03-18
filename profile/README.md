@@ -5,4 +5,4 @@
 - [Monocular Pose Estimation](../Ideas/Monocular_Pose_Estimation.md)
 
 # Architecture
-<img src="../resources/architecture_diagram.png" alt="architecture_diagram" width="700"/>
+![Architecture_Diagram](../resources/architecture_diagram.svg)
